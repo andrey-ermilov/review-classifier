@@ -8,8 +8,8 @@ Streamlit-приложение для классификации отзывов 
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/andrey-ermilov/text-classification.git
-cd /text-classification
+git clone https://github.com/andrey-ermilov/review-classifier.git
+cd /review-classifier
 ```
 
 2. Установите зависимости:
