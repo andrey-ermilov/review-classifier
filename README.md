@@ -1,23 +1,23 @@
-## Описание 
+## Description  
 
-Streamlit-приложение для классификации отзывов кинокритиков на два класса:
-- положительный 
-- отрицательный 
+A Streamlit application for classifying movie critics' reviews into two classes:
+- positive   
+- negative   
 
-## Установка и запуск
+##  Installation and Launch
 
-1. Клонируйте репозиторий:
+1. Clone the repository:
 ```bash
 git clone https://github.com/andrey-ermilov/review-classifier.git
 cd /review-classifier
 ```
 
-2. Установите зависимости:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Запустите приложение:
+3. Run the application:
 ```bash
 streamlit run app.py
 ```
